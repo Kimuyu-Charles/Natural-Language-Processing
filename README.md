@@ -13,7 +13,7 @@ metadata, industry classifications and descriptions), it:
   or risk-scoring models.
 
 It is designed to sit on top of a **clean fundamentals layer**, such as the
-one prepared in the _Data Collection, Wrangling & Feature Engineering_ project.
+one prepared in the _Company-Industry-Data-Pipeline project.
 
 ---
 
